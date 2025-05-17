@@ -1,20 +1,46 @@
-# TURBOTUBE - DEPLOY NO RENDER
+# 🚀 TurboTube — Baixe vídeos do YouTube em Alta Qualidade
 
-## PASSO A PASSO PARA COLOCAR ONLINE
+O **TurboTube** é a solução mais rápida e leve para quem deseja baixar vídeos do YouTube com áudio perfeito e qualidade profissional — disponível para Android, iOS, Windows e Mac.
 
-1. Crie uma conta gratuita em https://render.com
-2. Crie uma conta no GitHub (https://github.com)
-3. Crie um novo repositório chamado "turbotube"
-4. Faça upload de todos os arquivos deste ZIP no GitHub
-5. Vá até o site da Render.com e clique em "New Web Service"
-6. Conecte sua conta GitHub e selecione o repositório "turbotube"
-7. Configure:
-   - Build Command: pip install -r requirements.txt
-   - Start Command: python app.py
-   - Environment: Python 3
-8. Clique em "Create Web Service"
+🎯 **Promessa clara:** Baixe qualquer vídeo do YouTube em **1080p, 2K e até 4K** com áudio sincronizado, sem complicação.
 
-Em 1 a 2 minutos, seu site estará online com um link como:
-https://turbotube.onrender.com
+---
 
-Cole um link do YouTube e clique em "Baixar em Alta Qualidade" para testar.
+## 🧠 Por que usar o TurboTube?
+
+- ✅ Download com **1 clique**
+- 🎵 Áudio e vídeo 100% sincronizados
+- 🧩 Compatível com **todos os dispositivos**
+- ⚡ Interface leve e rápida
+- 🔒 Sem anúncios, sem vírus, sem enrolação
+
+---
+
+## 📥 Como usar:
+
+1. Copie o link do vídeo no YouTube
+2. Cole na barra do TurboTube
+3. Clique em **"Baixar em Alta Qualidade"**
+4. Pronto! O download começa automaticamente
+
+---
+
+## 📱 Plataformas compatíveis:
+- Android
+- iOS (iPhone)
+- Windows
+- macOS
+
+---
+
+## 🛡️ Políticas & Informações:
+
+- [Sobre nós](#)
+- [Política de Privacidade](#)
+- [Termos de Uso](#)
+- [Política de Cookies](#)
+- [Aviso de Direitos Autorais](#)
+
+---
+
+**TurboTube — rápido como um raio, direto pro seu dispositivo.**
